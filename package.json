@@ -1,0 +1,26 @@
+{
+  "name": "currency-converter-bynik",
+  "version": "1.0.0",
+  "description": "an npm package to convert currency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n15git/currency-converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Nikita Sinha",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/n15git/currency-converter/issues"
+  },
+  "homepage": "https://github.com/n15git/currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
